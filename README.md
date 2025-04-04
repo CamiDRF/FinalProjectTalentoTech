@@ -1,3 +1,3 @@
 # FinalProjectTalentoTech
 
-Trabajo final de Daniela Urreal  Laddino y Camilo Del Río Flórez
+Trabajo final de Daniela Urreal  Ladino y Camilo Del Río Flórez
